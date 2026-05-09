@@ -1,5 +1,5 @@
 # 💫 About Me:
-2nd-year student at VIT Bhopal University passionate about AI & ML, coding, and problem-solving.<br>Skilled in C++, Python, and Java, with familiarity in HTML and CSS.<br>Currently learning Machine Learning and open to collaborating on open-source projects.<br><br>
+2nd-year student at VIT Bhopal University passionate about AI & ML, coding, and problem-solving.<br>Skilled in C++, Python, and Java, with familiarity in HTML and CSS.<br>Currently learning Machine Learning and open to collaborating on open-source projects.<br><br> 
 
 
 ## 🌐 Socials:
