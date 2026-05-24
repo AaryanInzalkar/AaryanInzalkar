@@ -122,7 +122,7 @@ me.say_hi()
 | 🔭 Currently Working On | 🌱 Currently Learning | 🤝 Looking To Collaborate On |
 |:---:|:---:|:---:|
 | ML Projects & Experiments | Deep Learning & Neural Nets | Open Source AI/ML Projects |
-| Flutter Mobile Apps | Advanced DSA in C++ | Hackathons & Competitions |
+| Flutter Apps | DSA | Hackathons & Competitions |
 
 </div>
 
