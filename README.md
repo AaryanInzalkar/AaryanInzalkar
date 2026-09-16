@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=00FF94&center=true&vCenter=true&width=650&lines=%3E+2nd+Year+CS+%40+VIT+Bhopal;%3E+Training+models%2C+breaking+things%2C+fixing+them;%3E+Shipping+ML+%2B+security+side+projects;%3E+Always+debugging+something" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=00FF94&center=true&vCenter=true&width=650&lines=%3E+3rd+Year+CS+%40+VIT+Bhopal;%3E+Training+models%2C+breaking+things%2C+fixing+them;%3E+Shipping+ML+%2B+security+side+projects;%3E+Always+debugging+something" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -21,7 +21,7 @@
 ```yaml
 name:        Aaryan Inzalkar
 university:  VIT Bhopal University
-role:        2nd Year — Computer Science
+role:        3rd Year — Computer Science
 based_in:    India 🇮🇳
 stack:       [C, C++, Java, Python]
 focus:       Machine Learning · AI · Security-adjacent side projects
