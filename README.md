@@ -1,87 +1,101 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00FF94&height=220&section=header&text=AARYAN%20INZALKAR&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20with%20AI%20%2F%20ML%20%E2%80%94%20one%20model%20at%20a%20time&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:6A040F,75:DC2F02,100:FFBA08&height=230&section=header&text=AARYAN%20INZALKAR&fontSize=48&fontColor=FFF3E2&animation=fadeIn&fontAlignY=38&desc=teaching%20machines%20to%20see%20—%20one%20tensor%20at%20a%20time&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=00FF94&center=true&vCenter=true&width=650&lines=%3E+3rd+Year+CS+%40+VIT+Bhopal;%3E+Training+models%2C+breaking+things%2C+fixing+them;%3E+Shipping+ML+%2B+security+side+projects;%3E+Always+debugging+something" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=FFBA08&center=true&vCenter=true&width=680&lines=%3E+B.Tech+AI%2FML+%40+VIT+%C2%B7+Class+of+2028;%3E+Training+YOLOv8+to+see+what+you+can%27t;%3E+20+PRs+merged+%40+GSSoC+%2726+%F0%9F%94%A5;%3E+CV+%C2%B7+NLP+%C2%B7+GenAI+%E2%80%94+pick+a+flame" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/aaryaninzalkar/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF94" /></a>
-<a href="https://github.com/AaryanInzalkar"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF94" /></a>
-<img src="https://komarev.com/ghpvc/?username=AaryanInzalkar&style=for-the-badge&color=000000&label=PROFILE+VIEWS&labelColor=000000" />
+<a href="https://www.linkedin.com/in/aaryaninzalkar/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF6B35" /></a>
+<a href="mailto:aaryaninzalkar@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF6B35" /></a>
+<a href="https://github.com/AaryanInzalkar"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FF6B35" /></a>
+<img src="https://komarev.com/ghpvc/?username=AaryanInzalkar&style=for-the-badge&color=E85D04&label=PROFILE+VIEWS&labelColor=0D0D0D" />
 
 </div>
 
 <br/>
 
-## `$ whoami`
+## 🔥 `$ whoami`
 
 ```yaml
-name:        Aaryan Inzalkar
-university:  VIT Bhopal University
-role:        3rd Year — Computer Science
-based_in:    India 🇮🇳
-stack:       [C, C++, Java, Python]
-focus:       Machine Learning · AI · Security-adjacent side projects
-status:      Open to open-source collabs & internships
+name:       Aaryan Inzalkar
+education:  B.Tech — Artificial Intelligence & ML @ VIT (2024–2028) · CGPA 7.86
+focus:      Computer Vision · NLP · Generative AI
+oss:        GSSoC '26 Contributor — 20 PRs merged across 4 repos (AIR < 600)
+leadership: IR Manager @ AIESEC in Bhopal — represented Bhopal on the global stage
+status:     Open to internships, open-source collabs & hackathons
 ```
 
 <br/>
 
-## ⚡ Tech Stack
+## ⚡ The Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,tensorflow,pytorch,sklearn,flutter,oracle,github,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,opencv,fastapi,sklearn,c,cpp,java,docker,linux,git,github,sqlite,html,css&theme=dark" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-`NumPy` `Pandas` `Matplotlib` `Streamlit` `Canva` `Adobe`
+<img src="https://img.shields.io/badge/YOLOv8-0D0D0D?style=flat-square&logoColor=FFBA08" />
+<img src="https://img.shields.io/badge/ByteTrack-0D0D0D?style=flat-square" />
+<img src="https://img.shields.io/badge/NumPy-0D0D0D?style=flat-square&logo=numpy&logoColor=F48C06" />
+<img src="https://img.shields.io/badge/Pandas-0D0D0D?style=flat-square&logo=pandas&logoColor=F48C06" />
+<img src="https://img.shields.io/badge/NLTK-0D0D0D?style=flat-square" />
+<img src="https://img.shields.io/badge/Matplotlib-0D0D0D?style=flat-square" />
+<img src="https://img.shields.io/badge/Streamlit-0D0D0D?style=flat-square&logo=streamlit&logoColor=FF6B35" />
+<img src="https://img.shields.io/badge/SQLAlchemy-0D0D0D?style=flat-square" />
+<img src="https://img.shields.io/badge/JWT-0D0D0D?style=flat-square&logo=jsonwebtokens&logoColor=FFBA08" />
 
 </div>
 
 <br/>
 
-## 🛠️ Projects I've Actually Shipped
+## 🛠️ Things I've Built & Shipped
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🛡️ [SentinelAI](https://github.com/AaryanInzalkar/SentinelAI)
-An AI-driven security tool with a Python backend and dedicated frontend — built to explore how ML can flag anomalies and threats in real time.
+Full-stack **surveillance intelligence** system — FastAPI + Streamlit with a JWT-authenticated REST API spanning **23 endpoints** (cameras, zones, alerts, incidents).
 
-`Python` `Backend/Frontend`
+YOLOv8 + ByteTrack for **real-time multi-object tracking** across webcam, file & RTSP streams — per-object speed and zone dwell time. Hybrid risk engine: **Random Forest (70%) + rule-based heuristics (30%)** → 0–100 risk score, 3-tier threat levels.
+
+`Python` `FastAPI` `YOLOv8` `OpenCV`
 
 </td>
 <td width="50%" valign="top">
 
-### 📰 [Fake-News-Detector](https://github.com/AaryanInzalkar/Fake-News-Detector)
-A machine learning web app that classifies news articles as real or fake using NLP, wrapped in a Streamlit interface.
+### 📰 [Fake News Detector](https://github.com/AaryanInzalkar/Fake-News-Detector)
+NLP web app classifying news as **real or fake** from raw text or URL (BeautifulSoup scraping).
 
-`Python` `NLP` `Streamlit`
+Benchmarked **Logistic Regression, Random Forest & SVM** on TF-IDF features over **44,900 articles** — best model hit **99.37% accuracy / 99.39% F1** (Random Forest) on a held-out test split.
+
+`Python` `NLP` `Scikit-learn` `Streamlit`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💰 [Expense Tracker](https://github.com/AaryanInzalkar/-Expense-Tracker-)
-A desktop expense-tracking app built with Core Java and Swing — categorization, spending history, and totals for everyday student budgeting.
+### 🌍 Open Source @ GSSoC '26
+**20 PRs merged across 4 repositories** — All India Rank sub-600.
 
-`Java` `Swing` `Desktop App`
+Shipped 6 new features + 6 bug fixes: `select_dtypes` / `drop columns` methods and notebook display support for a Python **DataFrame library**, plus CSV I/O validation fixes.
+
+`Open Source` `Python` `20 PRs 🔥`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌱 More in the works
-Currently experimenting with deep learning and Flutter builds — new repos landing soon.
+### 🤝 AIESEC in Bhopal
+**IR Manager (2025–26)** — represented Bhopal on the global stage within AIESEC's International Relations vertical.
 
-`ML` `Flutter` `DSA`
+Led a **5-member team** and served as **OC President** for a full recruitment drive — grew approvals from **2 → 8** over the term.
+
+`Leadership` `Global IR` `Team of 5`
 
 </td>
 </tr>
@@ -89,33 +103,34 @@ Currently experimenting with deep learning and Flutter builds — new repos land
 
 <br/>
 
-## 📊 The Numbers
+## 📜 Certifications
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AaryanInzalkar&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=00FF94&title_color=00FF94&text_color=c9d1d9&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanInzalkar&theme=github_dark&hide_border=true&layout=compact&langs_count=8&icon_color=00FF94&title_color=00FF94&text_color=c9d1d9&bg_color=0d1117" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=AaryanInzalkar&theme=github-dark-blue&hide_border=true&ring=00FF94&fire=00FF94&currStreakLabel=00FF94" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AaryanInzalkar&theme=react-dark&hide_border=true&area=true&color=00FF94&line=00FF94&point=ffffff" width="100%"/>
+| Year | Certification |
+|:---:|:---|
+| **2025** | ☁️ Oracle Cloud Infrastructure — **AI Foundations Associate** |
+| **2025** | 🤖 Programming with Generative AI — **NPTEL Elite Certificate** |
+| **2026** | ✨ Introduction to Generative AI — **Simplilearn** |
 
 </div>
 
 <br/>
 
-## 🏆 Achievements
+## 📊 GitHub in Embers
 
 <div align="center">
 
-<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60" title="Pull Shark x2"/>
-<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="60" title="Quickdraw"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AaryanInzalkar&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=FF6B35&title_color=FFBA08&text_color=EDE0D4&bg_color=0D0D0D&ring_color=E85D04" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanInzalkar&hide_border=true&layout=compact&langs_count=8&title_color=FFBA08&text_color=EDE0D4&bg_color=0D0D0D" height="165"/>
 
-**Pull Shark ×2** &nbsp;·&nbsp; **Quickdraw**
+<img src="https://streak-stats.demolab.com/?user=AaryanInzalkar&hide_border=true&background=0D0D0D&ring=E85D04&fire=FFBA08&currStreakLabel=FFBA08&sideLabels=F48C06&currStreakNum=EDE0D4&sideNums=EDE0D4&dates=B08968" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AaryanInzalkar&theme=react-dark&hide_border=true&area=true&color=FFBA08&line=E85D04&point=FFBA08&bg_color=0D0D0D" width="100%"/>
 
 </div>
 
@@ -125,10 +140,10 @@ Currently experimenting with deep learning and Flutter builds — new repos land
 
 <div align="center">
 
-| 🔭 Building | 🌱 Learning | 🤝 Want to Collaborate On |
+| 🔭 Building | 🌱 Learning | 🤝 Open To |
 |:---:|:---:|:---:|
-| ML experiments & SentinelAI | Deep Learning & Neural Nets | Open-source AI/ML repos |
-| Flutter apps | DSA | Hackathons & competitions |
+| SentinelAI — real-time CV pipelines | Deep Learning & GenAI | Open-source AI/ML collabs |
+| NLP experiments | Advanced PyTorch | Hackathons & internships |
 
 </div>
 
@@ -136,14 +151,15 @@ Currently experimenting with deep learning and Flutter builds — new repos land
 
 <div align="center">
 
-### 📬 Let's Talk
+### 🕯️ Let's Talk
 
-<a href="https://www.linkedin.com/in/aaryaninzalkar/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF94"/></a>
+<a href="https://www.linkedin.com/in/aaryaninzalkar/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF6B35"/></a>
+<a href="mailto:aaryaninzalkar@gmail.com"><img src="https://img.shields.io/badge/Drop%20a%20Mail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FFBA08"/></a>
 
 <br/><br/>
 
-*"Code is not just syntax — it's the language of ideas."*
+*“Stay close to the fire — that's where the interesting things get built.”* 🔥
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:0F2027,100:00FF94&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFBA08,40:DC2F02,75:6A040F,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
